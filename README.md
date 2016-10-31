@@ -18,7 +18,11 @@ npm install
 # start the server 
 npm start
 
-# Compile project via aot
+# compile project via Jit
+npm run build:dev     //development
+npm run build:prod    //production
+
+# Compile project via Aot
 npm run build:aot
 
 
