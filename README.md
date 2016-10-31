@@ -10,7 +10,7 @@
 # clone
 https://github.com/felix307253927/angular2-webpack-aot.git
 
-cd angular2-webpack-starter
+cd angular2-webpack-aot
 
 # install the repo with npm
 npm install
