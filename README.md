@@ -41,6 +41,7 @@ angular2-webpack-aot/
  |   ├──karma.conf.js          * karma config for our unit tests
  |   ├──protractor.conf.js     * protractor config for our end-to-end tests
  │   ├──webpack.dev.js         * our development webpack config
+ │   ├──webpack.aot.js         * our aot webpack config
  │   ├──webpack.prod.js        * our production webpack config
  │   └──webpack.test.js        * our testing webpack config
  │
