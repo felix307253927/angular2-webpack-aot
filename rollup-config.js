@@ -10,10 +10,10 @@ import uglify      from 'rollup-plugin-uglify'
 
 //paths are relative to the execution path
 export default {
-  entry: 'app/main-aot.js',
-  dest: 'aot/dist/build.js', // output a single application bundle
+  entry: 'src/main.browser.aot.js',
+  dest: 'aot/dist/main.build.js', // output a single application bundle
   sourceMap: true,
-  sourceMapFile: 'aot/dist/build.js.map',
+  sourceMapFile: 'aot/dist/main.build.js.map',
   format: 'iife',
   plugins: [
     nodeResolve({jsnext: true, module: true}),
