@@ -1,6 +1,9 @@
 # angular2-webpack-aot
 > This project is modified on the basis of AngularClass
 
+> angular version 2.1.2
+
+
 ## quick start
 ###Make sure you have Node version >= 5.0 and NPM >= 3
 ```bash
